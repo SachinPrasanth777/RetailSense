@@ -47,6 +47,8 @@ Technologies used in the project:
 *   FastAPI
 *   GenerativeAI
 
+<h2>Screenshots</h2>
+
 ![image](https://github.com/SachinPrasanth777/RetailSense/assets/82446436/bd952c28-258c-43f1-814d-aab8c788d98c)
 
 ![image](https://github.com/SachinPrasanth777/RetailSense/assets/82446436/56bd4bb7-b368-4cfd-a53b-f5bd8c37589f)
