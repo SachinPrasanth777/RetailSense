@@ -18,13 +18,6 @@ const DynamicDashboard = () => {
   return <Dashboard link={link} />;
 };
 
-const DynamicForm = () => {
-m
-  let { link } = useParams();
-
-
-  return <Form video_url={link} />;
-};
 
 const router = createBrowserRouter([
   {
@@ -37,7 +30,7 @@ const router = createBrowserRouter([
   },
   {
     path: "/form",
-    element: <DynamicForm />,
+    element: <Form />,
   },
   {
     path: "/dashboard",
