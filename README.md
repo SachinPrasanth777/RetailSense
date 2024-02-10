@@ -2,6 +2,48 @@
 Welcome to the RetailSense repository! This is a software built using the leveraging camera technology for enhanced in-store retail analytics.
 ![logo (1)](https://github.com/SachinPrasanth777/RetailSense/assets/143874503/33265d22-25b0-40e9-bc06-412ef2178aa1)
 
+<h1 align="center" id="title">RetailSense</h1>
+
+<p id="description">"RetailSense" leverages cutting-edge computer vision tech to enhance in-store retail. Using the YOLO algorithm it tracks customer movements assesses crowd density and evaluates product interest. Each section is a designated ROI for targeted analysis. Data collected optimizes product placement offering invaluable insights for marketing teams.</p>
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Front End</p>
+
+```
+npm i
+```
+
+```
+npm run dev
+```
+
+<p>2. Backend</p>
+
+```
+uvicorn index:app --reload
+```
+
+<p>3. Machine Learning</p>
+
+```
+pip install -r requirements.txt
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Python
+*   React
+*   Tailwind
+*   MongoDB
+*   AWS
+*   FastAPI
+*   GenerativeAI
+
 ![image](https://github.com/SachinPrasanth777/RetailSense/assets/82446436/bd952c28-258c-43f1-814d-aab8c788d98c)
 
 ![image](https://github.com/SachinPrasanth777/RetailSense/assets/82446436/56bd4bb7-b368-4cfd-a53b-f5bd8c37589f)
