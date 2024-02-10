@@ -4,7 +4,7 @@ import { DatePicker } from "@tremor/react";
 import React from "react";
 
 const Video = (props) => {
-  const url = `https://d2kzg5cjizpi8q.cloudfront.net/processed_vid/${props.videoname}`;
+  const url = `https://d2kzg5cjizpi8q.cloudfront.net/processed_vid/src3.mp4`;
   
   console.log(url);
 
