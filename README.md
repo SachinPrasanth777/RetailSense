@@ -7,7 +7,7 @@ Demonstration : https://www.youtube.com/watch?v=1XH1-fSYLh8
 
 <h1 align="center" id="title">RetailSense</h1>
 
-<p id="description">"RetailSense" leverages cutting-edge computer vision tech to enhance in-store retail. Using the YOLO algorithm it tracks customer movements assesses crowd density and evaluates product interest. Each section is a designated ROI for targeted analysis. Data collected optimizes product placement offering invaluable insights for marketing teams.</p>
+<p id="description">Welcome to the RetailSense repository! This is a software built using the leveraging camera technology for enhanced in-store retail analytics. Using the YOLO algorithm it tracks customer movements assesses crowd density and evaluates product interest. Each section is a designated ROI for targeted analysis. Data collected optimizes product placement offering invaluable insights for marketing teams.</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -60,6 +60,8 @@ Technologies used in the project:
 ![image](https://github.com/SachinPrasanth777/RetailSense/assets/82446436/9803c114-db3d-4751-8dfc-af51a4af0110)
 
 ![image](https://github.com/SachinPrasanth777/RetailSense/assets/82446436/bca9abc0-f12d-45f2-a763-860877cf8f33)
+
+If you encounter any issues or have suggestions for improvements, please create an issue or pull request on GitHub.
 
 ![image](https://github.com/SachinPrasanth777/RetailSense/assets/82446436/78a61bc1-4775-42b0-a65e-f20175418472)
 
