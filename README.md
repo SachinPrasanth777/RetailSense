@@ -61,11 +61,12 @@ Technologies used in the project:
 
 ![image](https://github.com/SachinPrasanth777/RetailSense/assets/82446436/bca9abc0-f12d-45f2-a763-860877cf8f33)
 
-If you encounter any issues or have suggestions for improvements, please create an issue or pull request on GitHub.
+
 
 ![image](https://github.com/SachinPrasanth777/RetailSense/assets/82446436/78a61bc1-4775-42b0-a65e-f20175418472)
 
 ![image](https://github.com/SachinPrasanth777/RetailSense/assets/82446436/2af48c8c-5cb3-49d9-b622-41ff7e708410)
+If you encounter any issues or have suggestions for improvements, please create an issue or pull request on GitHub.
 
 
 
