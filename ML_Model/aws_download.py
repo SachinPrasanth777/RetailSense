@@ -1,8 +1,8 @@
 import boto3
 from aws_obj_count import count_objects_in_folder
 def download_video_from_s3(object_name, local_file_path):
-    ACCESS_KEY = 'AKIATCKARKXVX3H754FK'
-    SECRET_KEY  = 't/mtdMUjf+60wSNJihfzqtJ8xTS1p8iNXGRG3Cfq'
+    ACCESS_KEY = '<YOUR ACCESS KEY'
+    SECRET_KEY  = 'YOUR SECRET KEY'
     s3 = boto3.client("s3",
                 aws_access_key_id=ACCESS_KEY,
                 aws_secret_access_key=SECRET_KEY)
