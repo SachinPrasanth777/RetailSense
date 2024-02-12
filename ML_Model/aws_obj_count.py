@@ -1,8 +1,8 @@
 import boto3
 
 def count_objects_in_folder(bucket_name, folder_name):
-    ACCESS_KEY = 'AKIATCKARKXVX3H754FK'
-    SECRET_KEY  = 't/mtdMUjf+60wSNJihfzqtJ8xTS1p8iNXGRG3Cfq'
+    ACCESS_KEY = 'YOUR ACCESS KET'
+    SECRET_KEY  = 'your secret key'
     s3 = boto3.client("s3",
                 aws_access_key_id=ACCESS_KEY,
                 aws_secret_access_key=SECRET_KEY)  
